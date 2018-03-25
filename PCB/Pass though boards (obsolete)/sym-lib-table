@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name allegro)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/allegro.lib)(options "")(descr ""))
+  (lib (name graphic_symbols)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/graphic_symbols.lib)(options "")(descr ""))
+  (lib (name infineon)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/infineon.lib)(options "")(descr ""))
+  (lib (name intersil)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/intersil.lib)(options "")(descr ""))
+  (lib (name LEM)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/LEM.lib)(options "")(descr ""))
+  (lib (name logic_programmable)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/logic_programmable.lib)(options "")(descr ""))
+  (lib (name microchip_pic24mcu)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/microchip_pic24mcu.lib)(options "")(descr ""))
+  (lib (name modules)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/modules.lib)(options "")(descr ""))
+  (lib (name RFSolutions)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/RFSolutions.lib)(options "")(descr ""))
+)

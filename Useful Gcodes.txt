@@ -1,0 +1,4 @@
+M300 ;Beep
+M291    ;Custom messages
+M260: ;i2c Send Data
+M42: Switch I/O pin

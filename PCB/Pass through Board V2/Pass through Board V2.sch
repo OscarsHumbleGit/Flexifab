@@ -1,0 +1,276 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L conn:Conn_01x03 J1
+U 1 1 5AB5A780
+P 2500 1250
+F 0 "J1" H 2420 1567 50  0000 C CNN
+F 1 "Conn_01x03" H 2420 1476 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-03_03x2.54mm_Straight" H 2500 1250 50  0001 C CNN
+F 3 "~" H 2500 1250 50  0001 C CNN
+	1    2500 1250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x02 J2
+U 1 1 5AB5A7A7
+P 2500 1650
+F 0 "J2" H 2420 1867 50  0000 C CNN
+F 1 "Conn_01x02" H 2420 1776 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight" H 2500 1650 50  0001 C CNN
+F 3 "~" H 2500 1650 50  0001 C CNN
+	1    2500 1650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J10
+U 1 1 5AB5AA21
+P 3400 3400
+F 0 "J10" H 3480 3392 50  0000 L CNN
+F 1 "Conn_01x04" H 3480 3301 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 3400 3400 50  0001 C CNN
+F 3 "~" H 3400 3400 50  0001 C CNN
+	1    3400 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J4
+U 1 1 5AB5AAAE
+P 2750 3400
+F 0 "J4" H 2670 3717 50  0000 C CNN
+F 1 "Conn_01x04" H 2670 3626 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 2750 3400 50  0001 C CNN
+F 3 "~" H 2750 3400 50  0001 C CNN
+	1    2750 3400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 3300 3200 3300
+Wire Wire Line
+	3200 3400 2950 3400
+Wire Wire Line
+	2950 3500 3200 3500
+Wire Wire Line
+	3200 3600 2950 3600
+$Comp
+L conn:Conn_01x04 J11
+U 1 1 5AB5B6C4
+P 3400 4000
+F 0 "J11" H 3480 3992 50  0000 L CNN
+F 1 "Conn_01x04" H 3480 3901 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 3400 4000 50  0001 C CNN
+F 3 "~" H 3400 4000 50  0001 C CNN
+	1    3400 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J5
+U 1 1 5AB5B6CA
+P 2750 4000
+F 0 "J5" H 2670 4317 50  0000 C CNN
+F 1 "Conn_01x04" H 2670 4226 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 2750 4000 50  0001 C CNN
+F 3 "~" H 2750 4000 50  0001 C CNN
+	1    2750 4000
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 3900 3200 3900
+Wire Wire Line
+	3200 4000 2950 4000
+Wire Wire Line
+	2950 4100 3200 4100
+Wire Wire Line
+	3200 4200 2950 4200
+$Comp
+L conn:Conn_01x04 J12
+U 1 1 5AB5B89F
+P 3400 4550
+F 0 "J12" H 3480 4542 50  0000 L CNN
+F 1 "Conn_01x04" H 3480 4451 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 3400 4550 50  0001 C CNN
+F 3 "~" H 3400 4550 50  0001 C CNN
+	1    3400 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J6
+U 1 1 5AB5B8A5
+P 2750 4550
+F 0 "J6" H 2670 4867 50  0000 C CNN
+F 1 "Conn_01x04" H 2670 4776 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 2750 4550 50  0001 C CNN
+F 3 "~" H 2750 4550 50  0001 C CNN
+	1    2750 4550
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2950 4450 3200 4450
+Wire Wire Line
+	3200 4550 2950 4550
+Wire Wire Line
+	2950 4650 3200 4650
+Wire Wire Line
+	3200 4750 2950 4750
+$Comp
+L conn:Conn_01x02 J7
+U 1 1 5AB5BDA6
+P 3100 1650
+F 0 "J7" H 3180 1642 50  0000 L CNN
+F 1 "Conn_01x02" H 3180 1551 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight" H 3100 1650 50  0001 C CNN
+F 3 "~" H 3100 1650 50  0001 C CNN
+	1    3100 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x03 J9
+U 1 1 5AB5BDDA
+P 3150 1250
+F 0 "J9" H 3230 1292 50  0000 L CNN
+F 1 "Conn_01x03" H 3230 1201 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-03_03x2.54mm_Straight" H 3150 1250 50  0001 C CNN
+F 3 "~" H 3150 1250 50  0001 C CNN
+	1    3150 1250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 1150 2950 1150
+Wire Wire Line
+	2700 1250 2950 1250
+Wire Wire Line
+	2950 1350 2700 1350
+Wire Wire Line
+	2700 1650 2900 1650
+Wire Wire Line
+	2900 1750 2700 1750
+$Comp
+L conn:Conn_01x02 J3
+U 1 1 5AB5C6F0
+P 2500 2050
+F 0 "J3" H 2420 2267 50  0000 C CNN
+F 1 "Conn_01x02" H 2420 2176 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight" H 2500 2050 50  0001 C CNN
+F 3 "~" H 2500 2050 50  0001 C CNN
+	1    2500 2050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x02 J8
+U 1 1 5AB5C6F6
+P 3100 2050
+F 0 "J8" H 3180 2042 50  0000 L CNN
+F 1 "Conn_01x02" H 3180 1951 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-02_02x2.54mm_Straight" H 3100 2050 50  0001 C CNN
+F 3 "~" H 3100 2050 50  0001 C CNN
+	1    3100 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 2050 2900 2050
+Wire Wire Line
+	2900 2150 2700 2150
+$Comp
+L conn:Conn_01x04 J16
+U 1 1 5AB5CAC7
+P 5700 3450
+F 0 "J16" H 5780 3442 50  0000 L CNN
+F 1 "Conn_01x04" H 5780 3351 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5700 3450 50  0001 C CNN
+F 3 "~" H 5700 3450 50  0001 C CNN
+	1    5700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J13
+U 1 1 5AB5CACD
+P 5050 3450
+F 0 "J13" H 4970 3767 50  0000 C CNN
+F 1 "Conn_01x04" H 4970 3676 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5050 3450 50  0001 C CNN
+F 3 "~" H 5050 3450 50  0001 C CNN
+	1    5050 3450
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 3350 5500 3350
+Wire Wire Line
+	5500 3450 5250 3450
+Wire Wire Line
+	5250 3550 5500 3550
+Wire Wire Line
+	5500 3650 5250 3650
+$Comp
+L conn:Conn_01x04 J17
+U 1 1 5AB5CAD7
+P 5700 4050
+F 0 "J17" H 5780 4042 50  0000 L CNN
+F 1 "Conn_01x04" H 5780 3951 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5700 4050 50  0001 C CNN
+F 3 "~" H 5700 4050 50  0001 C CNN
+	1    5700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J14
+U 1 1 5AB5CADD
+P 5050 4050
+F 0 "J14" H 4970 4367 50  0000 C CNN
+F 1 "Conn_01x04" H 4970 4276 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5050 4050 50  0001 C CNN
+F 3 "~" H 5050 4050 50  0001 C CNN
+	1    5050 4050
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 3950 5500 3950
+Wire Wire Line
+	5500 4050 5250 4050
+Wire Wire Line
+	5250 4150 5500 4150
+Wire Wire Line
+	5500 4250 5250 4250
+$Comp
+L conn:Conn_01x04 J18
+U 1 1 5AB5CAE7
+P 5700 4600
+F 0 "J18" H 5780 4592 50  0000 L CNN
+F 1 "Conn_01x04" H 5780 4501 50  0000 L CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5700 4600 50  0001 C CNN
+F 3 "~" H 5700 4600 50  0001 C CNN
+	1    5700 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L conn:Conn_01x04 J15
+U 1 1 5AB5CAED
+P 5050 4600
+F 0 "J15" H 4970 4917 50  0000 C CNN
+F 1 "Conn_01x04" H 4970 4826 50  0000 C CNN
+F 2 "Connectors_Molex:Molex_KK-6410-04_04x2.54mm_Straight" H 5050 4600 50  0001 C CNN
+F 3 "~" H 5050 4600 50  0001 C CNN
+	1    5050 4600
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 4500 5500 4500
+Wire Wire Line
+	5500 4600 5250 4600
+Wire Wire Line
+	5250 4700 5500 4700
+Wire Wire Line
+	5500 4800 5250 4800
+$EndSCHEMATC
